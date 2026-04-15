@@ -2,7 +2,10 @@
 // @name         Note
 // @namespace    http://tampermonkey.net/
 // @version      1
+// @author       pushinviktor
 // @match        *://app.chatwoot.com/*
+// @updateURL    https://raw.githubusercontent.com/pushinviktor/Note/main/note.user.js
+// @downloadURL  https://raw.githubusercontent.com/pushinviktor/Note/main/note.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
